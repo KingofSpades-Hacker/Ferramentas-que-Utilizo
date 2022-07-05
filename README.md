@@ -3,13 +3,13 @@
 
  Instalação:
 
- $git clone https://github.com/KingofSpades-Hacker/Ferramentas_que_Utilizo.git
+$git clone https://github.com/KingofSpades-Hacker/Ferramentas-que-Utilizo.git
 
-$cd termuxtdi
+$cd Ferramentas-que-Utilizo
 
-$chmod +x termuxtdi.sh
+$chmod +x ferramentas
 
-$bash termuxtdi.sh 
+$bash ferramentas 
 
 
 Instale manualmente o Ngrok e o Openvpn
