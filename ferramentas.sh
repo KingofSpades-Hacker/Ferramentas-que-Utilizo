@@ -19,6 +19,8 @@ sudo apt-get install python3
 
 echo -e "\e[1;92m Instalando a pasta Ferramenta e tudo dentro dela"
 
+cd
+
 mkdir ferramentas
 cd ferramentas
 git clone https://github.com/arthaud/git-dumper.git
