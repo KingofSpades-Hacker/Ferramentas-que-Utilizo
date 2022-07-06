@@ -88,6 +88,9 @@ mkdir .wl
 cd .wl
 wget https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt
 
+cd
+rm Ferramentas-que-Utilizo -rf
+
 echo -e "\e[1;92m Tudo Pronto, Só Hackear agora"
 
 
