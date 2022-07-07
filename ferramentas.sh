@@ -26,8 +26,6 @@ cd Ferramentas
 git clone https://github.com/arthaud/git-dumper.git
 pip install git-dumper
 
-git clone https://github.com/rebootuser/LinEnum.git
-
 git clone https://github.com/hangetzzu/saycheese.git
 
 git clone https://github.com/d093w1z/sayhello.git
@@ -77,6 +75,8 @@ git clone https://github.com/devanshbatham/ParamSpider.git
 cd ParamSpider
 pip3 install -r requirements.txt
 
+git clone https://github.com/rebootuser/LinEnum.git
+
 cd
 mkdir .gf
 cd .gf
@@ -94,6 +94,6 @@ cd
 rm Ferramentas-que-Utilizo -rf
 
 echo -e "\e[1;92m Tudo Pronto, Só Hackear agora"
+echo -e "\e[1;92m COM GRANDES PODERES A GRANDE RESPONSABILIDADES. -TIO BEN"
 
 
-exit
