@@ -89,6 +89,11 @@ cd
 mkdir .wl
 cd .wl
 wget https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt
+git clone https://github.com/danielmiessler/SecLists.git
+
+cd 
+cd /usr/share/wordlists/
+sudo cp -r * ~/.wl
 
 cd
 rm Ferramentas-que-Utilizo -rf
