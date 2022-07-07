@@ -94,6 +94,6 @@ cd
 rm Ferramentas-que-Utilizo -rf
 
 echo -e "\e[1;92m Tudo Pronto, Só Hackear agora"
-echo -e "\e[1;92m COM GRANDES PODERES A GRANDE RESPONSABILIDADES. -TIO BEN"
+echo -e "\e[1;92m COM GRANDES PODERES VÊM GRANDE RESPONSABILIDADES. -TIO BEN"
 
 
