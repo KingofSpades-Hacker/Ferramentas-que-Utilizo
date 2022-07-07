@@ -21,8 +21,8 @@ echo -e "\e[1;92m Instalando a pasta Ferramenta e tudo dentro dela"
 
 cd
 
-mkdir ferramentas
-cd ferramentas
+mkdir Ferramentas
+cd Ferramentas
 git clone https://github.com/arthaud/git-dumper.git
 pip install git-dumper
 
