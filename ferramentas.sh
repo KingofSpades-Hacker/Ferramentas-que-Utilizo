@@ -26,6 +26,8 @@ cd ferramentas
 git clone https://github.com/arthaud/git-dumper.git
 pip install git-dumper
 
+git clone https://github.com/rebootuser/LinEnum.git
+
 git clone https://github.com/hangetzzu/saycheese.git
 
 git clone https://github.com/d093w1z/sayhello.git
