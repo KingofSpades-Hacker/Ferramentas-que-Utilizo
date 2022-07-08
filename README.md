@@ -7,7 +7,7 @@ $git clone https://github.com/KingofSpades-Hacker/Ferramentas-que-Utilizo.git
 
 $cd Ferramentas-que-Utilizo
 
-$chmod +x ferramentas
+$chmod +x ferramentas.sh
 
 $bash ferramentas.sh
 
