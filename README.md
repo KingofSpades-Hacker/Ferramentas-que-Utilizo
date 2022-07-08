@@ -9,7 +9,7 @@ $cd Ferramentas-que-Utilizo
 
 $chmod +x ferramentas
 
-$bash ferramentas 
+$bash ferramentas.sh
 
 
 Instale manualmente o Ngrok e o Openvpn
