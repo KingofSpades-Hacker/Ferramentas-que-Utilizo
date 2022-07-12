@@ -95,6 +95,10 @@ cd
 cd
 rm Ferramentas-que-Utilizo -rf
 
+sudo apt install nmap -y
+sudo apt install hydra -y
+sudo apt install sqlmap -y
+
 echo -e "\e[1;92m Tudo Pronto, Só Hackear agora"
 echo -e "\e[1;92m COM GRANDES PODERES VÊM GRANDE RESPONSABILIDADES. -TIO BEN"
 
